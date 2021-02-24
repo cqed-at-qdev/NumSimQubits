@@ -8,4 +8,4 @@ The `numsimqubits` package contains two subpackages:
 
 -`dynamics`: collection of codes to simulate the time evolution of qubits and multi-level systems under external drives.
 
-The examples in Jupyter Notebooks can be found on the projects github pages: 
+The examples in Jupyter Notebooks can be found on the projects github pages: https://github.com/gyenis-lab/NumSimQubits/
